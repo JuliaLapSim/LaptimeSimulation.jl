@@ -20,4 +20,5 @@ makedocs(;
 
 deploydocs(;
     repo="github.com/JuliaLapSim/LaptimeSimulation.jl",
+    devbranch = "main"
 )
