@@ -6,11 +6,11 @@ DocMeta.setdocmeta!(LaptimeSimulation, :DocTestSetup, :(using LaptimeSimulation)
 makedocs(;
     modules=[LaptimeSimulation],
     authors="Brady Planden, Deepak Selvan",
-    repo="https://github.com/dselvan/LaptimeSimulation.jl/blob/{commit}{path}#{line}",
+    repo="https://github.com/JuliaLapSim/LaptimeSimulation.jl/blob/{commit}{path}#{line}",
     sitename="LaptimeSimulation.jl",
     format=Documenter.HTML(;
         prettyurls=get(ENV, "CI", "false") == "true",
-        canonical="https://dselvan.github.io/LaptimeSimulation.jl",
+        canonical="https://julialapsim.github.io/LaptimeSimulation.jl",
         assets=String[],
     ),
     pages=[
@@ -19,5 +19,5 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/dselvan/LaptimeSimulation.jl",
+    repo="github.com/JuliaLapSim/LaptimeSimulation.jl",
 )
