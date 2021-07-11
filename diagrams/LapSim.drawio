@@ -1,1 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T13:42:35.029Z" agent="5.0 (Macintosh)" version="14.8.4" etag="PYnF8SYR4OllI2teJ37B" type="github"><diagram id="4uFVF--TvaTOMErEtUcD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile>
+    <diagram id="4uFVF--TvaTOMErEtUcD" name="Page-1">
+        <mxGraphModel dx="945" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="2" target="11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2" target="15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Vehicle Model" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="350" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="7">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="380" y="348" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="Parameterisation" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Sub model xx" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="13" target="15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="13" target="23">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Trajectory" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="350" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="15" target="20">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Solver" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="350" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Out - Solved Trajectory" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="540" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Track Definition" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF3333;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="320" width="190" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF3333;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="485" y="200" width="185" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF3333;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="320" width="200" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF3333;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="180" width="180" height="120" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
